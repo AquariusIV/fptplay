@@ -2,7 +2,7 @@
 <addon
   id="plugin.video.fptplay"
   version="0.0.5"
-  name="[COLOR ffffff00]Anh[/COLOR][COLOR ffffa500]Trang[/COLOR][COLOR ffffffff].ORG[/COLOR]"
+  name="[COLOR ffffff00]FPT[/COLOR][COLOR ffffa500]PLAY[/COLOR][COLOR ffffffff].ORG[/COLOR]"
   provider-name="traitravinh_AquariusIV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
